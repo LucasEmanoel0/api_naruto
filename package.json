@@ -1,0 +1,27 @@
+{
+  "name": "apinaruto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --trace-warnings --watch ./src/server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasEmanoel0/api_naruto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasEmanoel0/api_naruto/issues"
+  },
+  "homepage": "https://github.com/LucasEmanoel0/api_naruto#readme",
+  "dependencies": {
+    "@types/express": "^5.0.3",
+    "@types/typescript": "^0.4.29",
+    "express": "^5.1.0",
+    "typescript": "^5.9.3"
+  }
+}
